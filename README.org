@@ -1,0 +1,10 @@
+* ndebug
+
+A Common Lisp toolkit to construct interface-aware yet standard-compliant debugger hooks
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/atlas-engineer/ndebug.git   |
+| commit  | cb3e9af  |
+| systems | ndebug |
+|---------+-------------------------------------------|
+
