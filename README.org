@@ -4,6 +4,6 @@ A Common Lisp toolkit to construct interface-aware yet standard-compliant debugg
 
 |---------+--------------------------------------------------|
 | source  | git:https://github.com/atlas-engineer/ndebug.git |
-| commit  | 7a6ddbb                                          |
+| commit  | 8c745ef                                          |
 | systems | ndebug                                           |
 |---------+--------------------------------------------------|
